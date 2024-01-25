@@ -10,4 +10,4 @@
 <a href="https://github.com/tualatinlz/TDPS">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tualatinlz&repo=TDPS&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
-<div align="center"> <img src="https://metrics.lecoq.io/tualatinlz?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
